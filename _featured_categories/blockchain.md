@@ -2,7 +2,7 @@
 layout: list
 title: Blockchain
 slug: blockchain
-menu: false
+menu: true
 submenu: false
 order: 1
 description: >

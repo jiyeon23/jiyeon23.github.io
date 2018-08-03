@@ -2,7 +2,7 @@
 layout: list
 title: Solidity
 slug: solidity
-menu: false
+menu: true
 submenu: false
 order: 3
 description: >
